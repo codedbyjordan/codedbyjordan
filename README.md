@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning the 'weird parts of JavaScript' then I'll move on to TypeScript
-- 📫 How to reach me: @jordanmbaron on Instagram or via email jordannbaron@gmail.com
+- 📫 How to reach me: @jordanmbaron on Instagram, jordanbaron_ on Twitter, or via email jordannbaron@gmail.com
 
 
 Thanks for visiting!
