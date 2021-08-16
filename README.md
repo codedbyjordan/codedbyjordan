@@ -1,5 +1,4 @@
 ## 👋 Hi there
----
 I'm Jordan (he/him), a 17 year-old web developer from Virginia. I've been interested in technology for most of my life and I've been coding since I was 12. Currently, I'm learning data structures & algorithms among many other things while I apply for my first job.
 
 
@@ -10,7 +9,6 @@ I'm Jordan (he/him), a 17 year-old web developer from Virginia. I've been intere
 
 
 ## 👨‍💻 Skills
----
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&style=flat-square)
 ![Node Badge](https://img.shields.io/badge/Node.js-lightgreen?logo=Node.js&style=flat-square)
 ![React Badge](https://img.shields.io/badge/React-blue?logo=React&style=flat-square)
