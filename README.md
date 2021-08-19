@@ -4,7 +4,7 @@ I'm Jordan (he/him), a 17 year-old web developer from Virginia. I've been intere
 
 ![Visits Badge](https://badges.pufler.dev/visits/jordan-tc/jordan-tc?logo=GitHub&color=blueviolet&style=flat-square)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/jordan-baron-b90984201/)
-![Twitter Follow](https://img.shields.io/twitter/follow/jordanbaron_?label=jordanbaron_&logo=twitter&color=blue&style=flat-square)
+![Twitter Follow](https://img.shields.io/twitter/follow/codedbyjordan?label=jordanbaron_&logo=twitter&color=blue&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/jordan-tc?color=black&label=jordan-tc&logo=GitHub&style=flat-square)
 
 
