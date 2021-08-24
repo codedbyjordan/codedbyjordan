@@ -1,5 +1,5 @@
 ## 👋 Hi there
-I'm Jordan (he/him), a 17 year-old web developer from Virginia. I've been interested in technology for most of my life and I've been coding since I was 12. Currently, I'm learning data structures & algorithms among many other things while I apply for my first job.
+I'm Jordan (he/him), a 18 year-old web developer from Virginia. I've been interested in technology for most of my life and I've been coding since I was 12. Currently, I'm learning data structures & algorithms among many other things while I apply for my first job.
 
 
 ![Visits Badge](https://badges.pufler.dev/visits/codedbyjordan/codedbyjordan?logo=GitHub&color=blueviolet&style=flat-square)
