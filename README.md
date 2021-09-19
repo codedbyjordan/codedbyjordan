@@ -1,3 +1,10 @@
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codedbyjordan&theme=midnight-purple" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyjordan&theme=midnight-purple" />
+</a>
+
 ## 👋 Hi there
 I'm Jordan (he/him), a 18 year-old web developer from Virginia. I've been interested in technology for most of my life and I've been coding since I was 12. Currently, I'm learning data structures & algorithms among many other things while I apply for my first job.
 
