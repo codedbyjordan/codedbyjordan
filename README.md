@@ -31,4 +31,4 @@ I'm Jordan (he/him), a 18 year-old web developer from Virginia. I've been intere
 ## 🎓 Certifications & Education
 - Graduated from Nelson County High School (VA) 2017-2021
 
-- ![MITx 6.00.1x: Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/7379d0764cd3434ea2ccb6f9ec42234d) (I got this when I was 13 but never claimed the certificate until a few weeks ago 😭)
+- ![MITx 6.00.1x: Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/7379d0764cd3434ea2ccb6f9ec42234d) (I got this when I was 13 but never claimed the certificate 😭)
