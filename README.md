@@ -1,3 +1,5 @@
+<img src="https://firebasestorage.googleapis.com/v0/b/firegram-70a8a.appspot.com/o/Frame%201.png?alt=media&token=dfd58868-bd47-4527-8b02-4f96c02a4f04" alt="gh-header"/>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codedbyjordan&theme=midnight-purple" />
 </a>
