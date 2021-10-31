@@ -23,6 +23,7 @@ I'm Jordan (he/him), a 18 year-old web developer from Virginia. I've been intere
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&style=flat-square)
 ![Node Badge](https://img.shields.io/badge/Node.js-lightgreen?logo=Node.js&style=flat-square)
 ![React Badge](https://img.shields.io/badge/React-blue?logo=React&style=flat-square)
+![Svelte Badge](https://img.shields.io/badge/Svelte-orange?logo=Svelte&style=flat-square)
 ![HTML Badge](https://img.shields.io/badge/HTML-orange?logo=HTML5&style=flat-square)
 ![CSS Badge](https://img.shields.io/badge/CSS-blue?logo=CSS3&style=flat-square)
 ![Git Badge](https://img.shields.io/badge/Git-orange?logo=Git&style=flat-square)
@@ -31,6 +32,7 @@ I'm Jordan (he/him), a 18 year-old web developer from Virginia. I've been intere
 ![NextJS Badge](https://img.shields.io/badge/Next.js-black?logo=Next.js&style=flat-square)
 ![Gatsby Badge](https://img.shields.io/badge/Gatsby-blueviolet?logo=Gatsby&style=flat-square)
 ![Python Badge](https://img.shields.io/badge/Python-blue?logo=Python&style=flat-square)
+
 
 ## 🎓 Certifications & Education
 - Graduated from Nelson County High School (VA) 2017-2021
