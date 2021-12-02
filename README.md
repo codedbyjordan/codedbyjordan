@@ -1,6 +1,6 @@
 
 
-<img src="https://firebasestorage.googleapis.com/v0/b/firegram-70a8a.appspot.com/o/header.svg?alt=media&token=5a0fda20-328c-4b3c-a55a-e5c98e3faf81" alt="gh-header"/>
+<img src="header.png"/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codedbyjordan&theme=midnight-purple" />
