@@ -2,15 +2,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm Jordan (he/him), an 18 year-old web developer from Virginia. I've been interested in technology for most of my life and I've been coding since I was twelve!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codedbyjordan&theme=midnight-purple" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyjordan&theme=midnight-purple" />
-</a>
-
-<br/>
-<br/>
 
 ![Visits Badge](https://badges.pufler.dev/visits/codedbyjordan/codedbyjordan?logo=GitHub&color=blueviolet&style=flat-square)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/jordan-baron-b90984201/)
