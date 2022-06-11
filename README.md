@@ -1,6 +1,8 @@
 
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Jordan (he/him), an 18 year-old web developer from Virginia. I've been interested in technology for most of my life and I've been coding since I was twelve!
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
+I'm Jordan (he/him), an 18 year-old web developer from Virginia. I've been interested in technology for most of my life and I've been coding since I was twelve.
+
+Currently I'm an intern at a web3 stealth startup
 
 
 ![Visits Badge](https://badges.pufler.dev/visits/codedbyjordan/codedbyjordan?logo=GitHub&color=blueviolet&style=flat-square)
@@ -16,4 +18,4 @@ I'm Jordan (he/him), an 18 year-old web developer from Virginia. I've been inter
 ## 🎓 Certifications & Education
 - Graduated from Nelson County High School (VA) 2017-2021
 
-- ![MITx 6.00.1x: Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/7379d0764cd3434ea2ccb6f9ec42234d) (I got this when I was 13 but never claimed the certificate 😭)
+- ![MITx 6.00.1x: Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/7379d0764cd3434ea2ccb6f9ec42234d)
