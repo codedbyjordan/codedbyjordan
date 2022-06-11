@@ -1,8 +1,6 @@
 
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
-I'm Jordan (he/him), an 18 year-old web developer from Virginia. I've been interested in technology for most of my life and I've been coding since I was twelve.
-
-Currently I'm an intern at a web3 stealth startup
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
+I'm Jordan, an 18 year-old web dev from Virginia. I'm currently interning at a web3 startup 😊
 
 
 ![Visits Badge](https://badges.pufler.dev/visits/codedbyjordan/codedbyjordan?logo=GitHub&color=blueviolet&style=flat-square)
