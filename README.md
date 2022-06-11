@@ -1,6 +1,6 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
-I'm Jordan, an 18 year-old web dev from Virginia. I'm currently interning at a web3 startup 😊
+I'm Jordan, an 18 year-old web dev from Virginia. I'm currently interning at a web3 startup 😊 I also do bounties on [pointer.gg](https://pointer.gg/bounties)
 
 
 ![Visits Badge](https://badges.pufler.dev/visits/codedbyjordan/codedbyjordan?logo=GitHub&color=blueviolet&style=flat-square)
