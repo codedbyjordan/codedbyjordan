@@ -11,6 +11,13 @@ I'm Jordan, a 19 year-old web dev from Virginia. I'm a Jr. Software Engineer at 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,tailwind,next,svelte,figma,md,node)](https://skillicons.dev)
 
 
+## Experience
+
+- Software Developer @ [Froggy Friends](https://froggyfriendsnft.com)
+- Jr. Software Engineer @ [Heirloom](https://heirloom.io) (July 2022 - Now)
+    - Internship got cut short, promoted to full time!
+- Software Engineer Intern @ [Heirloom](https://heirloom.io) (June 2022 - July 2022)
+
 ## 🎓 Certifications & Education
 - Nelson County High School (VA) 2017-2021
 - [MITx 6.00.1x: Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/7379d0764cd3434ea2ccb6f9ec42234d)
