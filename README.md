@@ -13,7 +13,7 @@ I'm Jordan, a 19 year-old web dev from Virginia. I'm a Jr. Software Engineer at 
 
 ## Experience
 
-- Software Developer @ [Froggy Friends](https://froggyfriendsnft.com)
+- Software Developer @ [Froggy Friends](https://froggyfriendsnft.com) (July 2022 - October 2022)
 - Jr. Software Engineer @ [Heirloom](https://heirloom.io) (July 2022 - Now)
     - Internship got cut short, promoted to full time!
 - Software Engineer Intern @ [Heirloom](https://heirloom.io) (June 2022 - July 2022)
