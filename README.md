@@ -12,7 +12,8 @@ I'm Jordan, a 19 year-old developer from the VA boonies.
 
 
 ## Experience
-- Contract FE Software Engineer @ [Franklin](https://www.hellofranklin.co) (October 2022 - Now)
+- Contract Frontend Engineer @ <redacted> (June 2023 - Now)
+- Contract Frontend Engineer @ [Franklin](https://www.hellofranklin.co) (October 2022 - Now)
 - Software Engineer @ [Heirloom](https://heirloom.io) (April 2023 - Now)
 - Jr. Software Engineer @ [Heirloom](https://heirloom.io) (July 2022 - April 2023)
     - Internship got cut short, promoted to full time!
