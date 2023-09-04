@@ -1,6 +1,6 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
-I'm Jordan, a 19 year-old developer from the VA boonies.
+I'm Jordan, a 20 year-old developer from the VA boonies.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/jordan-baron-b90984201/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/codedbyjordan?label=codedbyjordan&logo=twitter&color=blue&style=flat-square)
