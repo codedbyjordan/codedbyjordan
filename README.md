@@ -8,7 +8,7 @@ I'm Jordan, a 20 year-old developer from the VA boonies. Currently residing in S
 
 
 ## 👨‍💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,tailwind,next,svelte,figma,md,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,next,svelte,figma,md)](https://skillicons.dev)
 
 
 ## Experience
