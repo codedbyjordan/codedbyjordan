@@ -1,9 +1,9 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
-I'm Jordan, a 20 year-old developer from the VA boonies.
+I'm Jordan, a 20 year-old developer from the VA boonies. Currently residing in Staunton.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/jordan-baron-b90984201/)
-![Twitter Follow](https://img.shields.io/twitter/follow/codedbyjordan?label=codedbyjordan&logo=twitter&color=blue&style=flat-square)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/codedbyjordan?style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/codedbyjordan?color=black&label=codedbyjordan&logo=GitHub&style=flat-square)
 
 
@@ -14,7 +14,7 @@ I'm Jordan, a 20 year-old developer from the VA boonies.
 ## Experience
 - Contract Frontend Engineer @ <redacted> (June 2023 - Now)
 - Contract Frontend Engineer @ [Franklin](https://www.hellofranklin.co) (October 2022 - Now)
-- Software Engineer @ [Heirloom](https://heirloom.io) (April 2023 - Now)
+- Software Engineer @ [Heirloom](https://heirloom.io) (April 2023 - Now) 
 - Jr. Software Engineer @ [Heirloom](https://heirloom.io) (July 2022 - April 2023)
     - Internship got cut short, promoted to full time!
 - Software Developer @ [Froggy Friends](https://froggyfriendsnft.com) (July 2022 - October 2022)
