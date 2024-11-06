@@ -12,7 +12,8 @@ I'm Jordan, a 20 year-old developer from the VA boonies. Currently residing in S
 
 
 ## Experience
-- Mid-level React Developer @ [Froggy Friends](https://froggyfriendsnft.com) (March 2023 - Now)
+- Senior Software Engineer @ [Blue Agilis](https://blueagilis.com) (October 2024 - Now)
+- Mid-level React Developer @ [Froggy Friends](https://froggyfriendsnft.com) (March 2023 - September 2024)
 - Software Engineer @ [Heirloom](https://heirloom.io) (April 2023 - July 2024) 
 - Contract Frontend Engineer @ [Franklin](https://www.hellofranklin.co) (October 2022 - January 2024)
 - Jr. Software Engineer @ [Heirloom](https://heirloom.io) (July 2022 - April 2023)
