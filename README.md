@@ -1,6 +1,6 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
-I'm Jordan, a 20 year-old developer from the VA boonies. Currently residing in Staunton.
+I'm Jordan, a 21 year-old developer from the VA boonies. Currently residing in Staunton.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/jordan-baron-b90984201/)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/codedbyjordan?style=flat-square)
